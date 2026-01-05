@@ -1,6 +1,6 @@
 <div align="center">
 
-## `💤 Simple Code Website Orange 🌟` *
+## `💤 Simple Website Code Orange 🌟` *
 
 `made with 🤍 from Mr dudul`
 
